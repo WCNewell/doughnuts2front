@@ -14,7 +14,13 @@ _Client_
 When you submit, please include the link to this repo. Include your deployed links below:
 
 Copy and Paste the Deployed Client Link to this README
-> your url here
+> https://doughnuts2-2d836.firebaseapp.com/
 
 Copy and Paste the Deployed Server Link to this README
 > https://vast-garden-81285.herokuapp.com/yeast
+
+Front-end repo
+> https://github.com/WCNewell/doughnuts2front
+
+Back-end repo
+> https://github.com/WCNewell/doughnuts2back
