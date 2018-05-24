@@ -17,4 +17,4 @@ Copy and Paste the Deployed Client Link to this README
 > your url here
 
 Copy and Paste the Deployed Server Link to this README
-> you url here
+> https://vast-garden-81285.herokuapp.com/yeast
